@@ -19,8 +19,9 @@ function check(){
 
 const printer=(event)=>{
     const elem=event.target;
-    total_turn++;
+    
     if(board_array[elem.id]==="E"){
+        total_turn++;
     if(turn==='O'){
          elem.innerHTML="O";
          board_array[elem.id]="O";
