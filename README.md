@@ -1,1 +1,9 @@
-A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. This project demonstrates fundamental front-end development skills including DOM manipulation, event handling, and responsive styling.
+## Technologies Used
+* Semantic HTML structure for game layout
+* CSS Flexbox/Grid for layout and styling
+* DOM manipulation and dynamic updates
+* JavaScript game logic & state management
+* Event handling for player interaction
+* Conditional logic for win/draw detection
+* Responsive design principles
+
